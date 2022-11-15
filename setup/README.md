@@ -18,3 +18,7 @@ This project is containing the biblical tour lands to be visited, costs, image o
 ### API DATA LINK
 
 https://neeharicamadanu.github.io/data/tour.json
+
+### Website Netlify Link for Project connected with Github
+
+https://bibletourland.netlify.app
